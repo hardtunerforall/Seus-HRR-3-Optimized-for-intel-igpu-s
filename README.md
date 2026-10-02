@@ -89,7 +89,7 @@ Hardware testing, benchmark results, bug reports, and useful technical feedback 
 If you have an Intel integrated GPU, useful testing information includes:
 GPU model:Intel UHD 630 (found in Intel i310005g1 cpu)
 FPS:30-40 on uhd 630, may work better for xe and arc grahics.
-Minecraft version at thetimeof testing: 1.21.11
+Minecraft version at the timeof testing: 1.21.11
 Shader loader:Iris only
 Settingsaree provided
 Visual differences: resolution drop by a few percentage, lighting issues, may cause flikering.
@@ -100,7 +100,7 @@ SEUS is created by Sonic Ether.
 This project is an independent optimization/modification and is not affiliated with or endorsed by Sonic Ether unless explicitly stated.
 All original shader rights remain with their respective creator(s).
 Please follow the original project's license and redistribution requirements.
-Support- mail me at 1140418@dpsecunderabad.in for any issues or for furtherdevelopment notice for optimizations.
+Support- mail me at 1140418@dpssecunderabad.in for any issues or for furtherdevelopment notice for optimizations.
 If this project helps you run SEUS HRR 3 more smoothly on Intel integrated graphics, consider starring the repository.
 Bug reports, benchmarks, and hardware testing are also appreciated.
 Search Terms:
